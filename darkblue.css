@@ -6,26 +6,17 @@ p,ul {
     font-family: Verdana;
     font-size: 14px;
 }
+
 .copyright {
     font-style: italic;
     font-size:10px;
 }
+
 p a {
     color :#72056d;
-
 }
-ul{
-    
+
+ul{   
     list-style-position: inside;
-    text-align:center;
-    
+    text-align:center;  
 }
-
-
-
-
-
-
-
-
-
