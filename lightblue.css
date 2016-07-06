@@ -1,0 +1,18 @@
+﻿body {
+    background-color:#3ccece;  color:#000000
+}
+
+
+p,ul{
+    font-family:Arial;
+}
+
+ul{
+    
+    list-style-type:none;
+    text-align:center;
+    
+}
+li::first-letter{
+    font-size:26px;
+}
