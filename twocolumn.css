@@ -1,0 +1,28 @@
+﻿body {
+   background-color:#1a2d5b;
+   font-family:Arial;
+   margin-left:200px;
+   margin-right:200px;
+   margin-bottom: 100px;
+
+   
+  
+   
+}
+#wrap{
+    
+    padding:inherit;
+    background-color: #91c4de;
+}
+article{
+    padding:inherit;
+    background-color:#4655b4;
+}
+p + ul{  
+    list-style-type:none;
+    text-align:center;   
+}
+p{
+    text-align:center;
+}
+
