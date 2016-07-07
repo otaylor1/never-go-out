@@ -2,6 +2,10 @@
     background-color:#3ccece;  color:#000000
 }
 
+h1{
+    font-family:,'Times New Roman', 'Times, serif';
+}
+
 p,ul{
     font-family:Arial;
 }
