@@ -1,19 +1,21 @@
 ﻿body {
-    background-color: #1a2d5b;
-    font-family: Arial,Arial, Helvetica, sans-serif;
-    margin-left: 200px;
-    margin-right: 200px;
-    margin-bottom: 100px;
-    column-count: 2;
+    background-color: #364371;
+    font-family: Arial, Helvetica, sans-serif;
+   
 }
-
-#wrap {
-    
-    background-color: #91c4de;
+main{
+    width:700px;
+}
+nav{
+    float:left;
+    background-color:#B0CFFF;
+    padding:20px;
+    height: 364px;
 }
 
 article {
-    background-color: #4655b4;
+    background-color: #5B7FBD;
+    
 }
 
 p + ul {
@@ -23,4 +25,8 @@ p + ul {
 
 p {
     text-align: center;
+}
+.copyright{
+    background-color:#364371;
+    text-align:right;
 }
